@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 9: play requires a file
-    play intersteller
-                     ^
+File "game/script.rpy", line 41: expected ':' not found.
+    label river
+               ^
 
 Ren'Py Version: Ren'Py 8.3.2.24090902
-Fri Oct 11 20:59:21 2024
+Tue Oct 15 01:54:37 2024
