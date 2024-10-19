@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 41: expected ':' not found.
-    label river
-               ^
+File "game/script.rpy", line 136: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "Yeah, but you're not considering the severity of the problem with our eco systems, they are being destroyed, not just because of the reckless use of diesel power but by the interference with nature and the mindset that we are more important than these non human living things."
+                                                                                                                                                                                                                                                                                          ^
 
 Ren'Py Version: Ren'Py 8.3.2.24090902
-Tue Oct 15 01:54:37 2024
+Sat Oct 19 18:08:10 2024
